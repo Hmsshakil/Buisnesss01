@@ -28,7 +28,7 @@
 }
 
 .fw-accordion .fw-accordion-title .ui-icon {
-	background: url("../img/plus-accordion.png") no-repeat;
+	background: url("https://hmsshakil.github.io/Business01/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/accordion/static/img/plus-accordion.png") no-repeat;
 	position: absolute;
 	top: 20px;
 	left: 15px;
@@ -37,7 +37,7 @@
 }
 
 .fw-accordion .fw-accordion-title.ui-state-active .ui-icon {
-	background: url("../img/minus-accordion.png") no-repeat;
+	background: url("https://hmsshakil.github.io/Business01/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/accordion/static/img/minus-accordion.png") no-repeat;
 	top: 22px;
 }
 

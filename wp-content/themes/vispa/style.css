@@ -7490,7 +7490,7 @@ a.panel-toggle.collapsed:active {
 }
 .owl-carousel .owl-item.loading {
   min-height: 150px;
-  background: url('../img/AjaxLoader.gif') no-repeat center center;
+  background: url('https://hmsshakil.github.io/Business01/wp-content/themes/img/AjaxLoader.gif') no-repeat center center;
 }
 .owl-carousel .owl-controls {
   padding-top: 1px;
