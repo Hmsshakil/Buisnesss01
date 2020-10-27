@@ -1,0 +1,3 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+$environment_variable = '{"themes":{"1":{"themes_url":"http:\/\/buisness.hmsshakil.xyz\/wp-content\/themes","use_child_theme":true,"main":{"folder_name":"vispa","mapped_name":""},"child":{"folder_name":"vispa-child","mapped_name":""}}},"allowed_paths":["\/home\/hmsshakil\/public_html\/buisness\/wp-content\/themes"],"wordpress_directory":"","site_relative_path":"\/"}'; ?>
